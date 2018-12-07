@@ -45,7 +45,7 @@ https://calendar.google.com/
 
 How to add Calendar too MM:
 
-Log in too Google Calendar > Click the Cog Wheel in the top right > Click Settings > Click on any calendar you want to put on MM (Bottom Left side of the website) > Click on Integrate calendar > Copy the "Public address in ICal format"
+Log in to Google Calendar > Click the Cog Wheel in the top right > Click Settings > Click on any calendar you want to put on MM (Bottom Left side of the website) > Click on Integrate calendar > Copy the "Public address in ICal format" link
 
 Calendar Module Doc:
 https://github.com/MichMich/MagicMirror/tree/master/modules/default/calendar
