@@ -1,0 +1,2 @@
+# WOSC-Smart-Mirror
+WOSC SMART MIRROR
