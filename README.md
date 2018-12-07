@@ -4,6 +4,7 @@ WOSC SMART MIRROR
 How to start MM:
 
 Terminal > pm2 start mm
+
 pm2 stop mm
 
 Magic Mirror
