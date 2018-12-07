@@ -1,6 +1,9 @@
 # WOSC-Smart-Mirror
 WOSC SMART MIRROR
 
+How to start MM:
+
+Terminal: pm2 start mm
 
 Magic Mirror
 MM Installation
